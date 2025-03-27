@@ -9,8 +9,8 @@ Web Developer and Designer
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [lohanasudhanshu8257@gmail.com](mailto:lohanasudhanshu8257@gmail.com)
-* 🚀  I'm currently working on [Whisper Wire](http://whisperwire.vercel.app/)
-* 🧠  I'm learning Next Js
+* 🧠  I'm learning Dev ops
+* ⚡ Fun fact I think my eyes are like pesticides when i see code they become bug free🫡
 
 ### Skills
 
