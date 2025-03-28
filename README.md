@@ -10,7 +10,7 @@ Web Developer and Designer
 * 🌍  I'm based in India
 * ✉️  You can contact me at [lohanasudhanshu8257@gmail.com](mailto:lohanasudhanshu8257@gmail.com)
 * 🧠  I'm learning Dev ops
-* ⚡ Fun fact I think my eyes are like pesticides when i see code they become bug free🫡
+* ⚡ Fun fact I think my eyes are like pesticides when i see code they become bug free
 
 ### Skills
 
